@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1,
+    "title": "Shoe motion",
+    "file": "01-shoe-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 8.26.34\u202fPM.mov",
+    "source_container_duration_seconds": 9.0,
+    "source_decoded_duration_seconds": 8.708,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.771
+  },
+  {
+    "id": 2,
+    "title": "Dishwasher motion",
+    "file": "02-dishwasher-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 8.27.23\u202fPM.mov",
+    "source_container_duration_seconds": 7.44,
+    "source_decoded_duration_seconds": 7.125,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.449
+  },
+  {
+    "id": 3,
+    "title": "Mug motion",
+    "file": "03-mug-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 8.27.45\u202fPM.mov",
+    "source_container_duration_seconds": 6.96,
+    "source_decoded_duration_seconds": 6.625,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.347
+  },
+  {
+    "id": 4,
+    "title": "Spray-bottle motion",
+    "file": "04-spray-bottle-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 8.28.19\u202fPM.mov",
+    "source_container_duration_seconds": 9.76,
+    "source_decoded_duration_seconds": 9.583,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.949
+  },
+  {
+    "id": 5,
+    "title": "Bowl motion",
+    "file": "05-bowl-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 8.29.06\u202fPM.mov",
+    "source_container_duration_seconds": 9.28,
+    "source_decoded_duration_seconds": 8.75,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.78
+  },
+  {
+    "id": 7,
+    "title": "Stool motion",
+    "file": "07-stool-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 8.29.41\u202fPM.mov",
+    "source_container_duration_seconds": 8.44,
+    "source_decoded_duration_seconds": 7.75,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.576
+  },
+  {
+    "id": 8,
+    "title": "Package motion",
+    "file": "08-package-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 8.30.01\u202fPM.mov",
+    "source_container_duration_seconds": 8.44,
+    "source_decoded_duration_seconds": 8.083,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.644
+  },
+  {
+    "id": 9,
+    "title": "Oven-door motion",
+    "file": "09-oven-door-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 8.30.18\u202fPM.mov",
+    "source_container_duration_seconds": 10.47,
+    "source_decoded_duration_seconds": 10.458,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 2.127
+  },
+  {
+    "id": 10,
+    "title": "Office-chair motion",
+    "file": "10-office-chair-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 8.30.47\u202fPM.mov",
+    "source_container_duration_seconds": 8.04,
+    "source_decoded_duration_seconds": 7.583,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.542
+  },
+  {
+    "id": 11,
+    "title": "Plate motion",
+    "file": "11-plate-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 8.35.47\u202fPM.mov",
+    "source_container_duration_seconds": 8.32,
+    "source_decoded_duration_seconds": 7.875,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.602
+  },
+  {
+    "id": 12,
+    "title": "Door-handle motion",
+    "file": "12-door-handle-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 9.09.08\u202fPM.mov",
+    "source_container_duration_seconds": 6.78,
+    "source_decoded_duration_seconds": 6.333,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.288
+  },
+  {
+    "id": 13,
+    "title": "Cup motion",
+    "file": "13-cup-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 9.34.05\u202fPM.mov",
+    "source_container_duration_seconds": 6.91,
+    "source_decoded_duration_seconds": 6.5,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.322
+  },
+  {
+    "id": 14,
+    "title": "Backpack motion",
+    "file": "14-backpack-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 9.34.49\u202fPM.mov",
+    "source_container_duration_seconds": 6.13,
+    "source_decoded_duration_seconds": 5.958,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.212
+  },
+  {
+    "id": 15,
+    "title": "Door-handle motion \u00b7 second view",
+    "file": "15-door-handle-motion-alt.mp4",
+    "source": "Screen Recording 2026-07-14 at 9.35.35\u202fPM.mov",
+    "source_container_duration_seconds": 6.34,
+    "source_decoded_duration_seconds": 6.333,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.288
+  },
+  {
+    "id": 16,
+    "title": "Keyboard motion",
+    "file": "16-keyboard-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 9.37.21\u202fPM.mov",
+    "source_container_duration_seconds": 9.15,
+    "source_decoded_duration_seconds": 8.417,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.712
+  },
+  {
+    "id": 17,
+    "title": "Cabinet-handle motion",
+    "file": "17-cabinet-handle-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 9.39.06\u202fPM.mov",
+    "source_container_duration_seconds": 8.73,
+    "source_decoded_duration_seconds": 8.708,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.771
+  },
+  {
+    "id": 18,
+    "title": "Door motion",
+    "file": "18-door-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 9.41.47\u202fPM.mov",
+    "source_container_duration_seconds": 5.03,
+    "source_decoded_duration_seconds": 4.917,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.0
+  },
+  {
+    "id": 19,
+    "title": "Small-container motion",
+    "file": "19-small-container-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 9.42.16\u202fPM.mov",
+    "source_container_duration_seconds": 6.95,
+    "source_decoded_duration_seconds": 6.292,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.28
+  },
+  {
+    "id": 20,
+    "title": "Plate motion \u00b7 second view",
+    "file": "20-plate-motion-alt.mp4",
+    "source": "Screen Recording 2026-07-14 at 9.44.11\u202fPM.mov",
+    "source_container_duration_seconds": 5.76,
+    "source_decoded_duration_seconds": 5.417,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.102
+  },
+  {
+    "id": 21,
+    "title": "Cup and plate motion",
+    "file": "21-cup-plate-motion.mp4",
+    "source": "Screen Recording 2026-07-14 at 9.44.52\u202fPM.mov",
+    "source_container_duration_seconds": 7.46,
+    "source_decoded_duration_seconds": 6.958,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.415
+  },
+  {
+    "id": 22,
+    "title": "Cup and plate motion \u00b7 second view",
+    "file": "22-cup-plate-motion-alt.mp4",
+    "source": "Screen Recording 2026-07-14 at 9.45.36\u202fPM.mov",
+    "source_container_duration_seconds": 7.47,
+    "source_decoded_duration_seconds": 7.042,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.432
+  },
+  {
+    "id": 23,
+    "title": "Dishwasher motion \u00b7 second view",
+    "file": "23-dishwasher-motion-alt.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.21.41\u202fAM.mov",
+    "source_container_duration_seconds": 6.84,
+    "source_decoded_duration_seconds": 6.333,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.288
+  },
+  {
+    "id": 24,
+    "title": "Spray bottle and sink motion",
+    "file": "24-spray-bottle-sink-motion.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.23.22\u202fAM.mov",
+    "source_container_duration_seconds": 7.4,
+    "source_decoded_duration_seconds": 7.25,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.475
+  },
+  {
+    "id": 25,
+    "title": "Mug and sink motion",
+    "file": "25-mug-sink-motion.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.24.10\u202fAM.mov",
+    "source_container_duration_seconds": 5.94,
+    "source_decoded_duration_seconds": 5.583,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.136
+  },
+  {
+    "id": 26,
+    "title": "Refrigerator-door motion",
+    "file": "26-refrigerator-door-motion.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.26.27\u202fAM.mov",
+    "source_container_duration_seconds": 7.53,
+    "source_decoded_duration_seconds": 6.958,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.415
+  },
+  {
+    "id": 27,
+    "title": "Shoe motion \u00b7 third view",
+    "file": "27-shoe-motion-third.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.27.48\u202fAM.mov",
+    "source_container_duration_seconds": 7.97,
+    "source_decoded_duration_seconds": 7.083,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.441
+  },
+  {
+    "id": 28,
+    "title": "Toy-cube motion",
+    "file": "28-toy-cube-motion.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.29.00\u202fAM.mov",
+    "source_container_duration_seconds": 8.16,
+    "source_decoded_duration_seconds": 7.375,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.5
+  },
+  {
+    "id": 29,
+    "title": "Oil-bottle motion",
+    "file": "29-oil-bottle-motion.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.30.20\u202fAM.mov",
+    "source_container_duration_seconds": 7.69,
+    "source_decoded_duration_seconds": 7.042,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.432
+  },
+  {
+    "id": 30,
+    "title": "Door-knob motion",
+    "file": "30-door-knob-motion.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.30.46\u202fAM.mov",
+    "source_container_duration_seconds": 7.76,
+    "source_decoded_duration_seconds": 7.0,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.424
+  },
+  {
+    "id": 31,
+    "title": "Washer-lid motion",
+    "file": "31-washer-lid-motion.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.32.13\u202fAM.mov",
+    "source_container_duration_seconds": 8.2,
+    "source_decoded_duration_seconds": 7.625,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.551
+  },
+  {
+    "id": 32,
+    "title": "Plush-seal motion",
+    "file": "32-plush-seal-motion.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.32.58\u202fAM.mov",
+    "source_container_duration_seconds": 5.63,
+    "source_decoded_duration_seconds": 5.625,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.144
+  },
+  {
+    "id": 33,
+    "title": "Plush-seal motion \u00b7 second view",
+    "file": "33-plush-seal-motion-alt.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.34.26\u202fAM.mov",
+    "source_container_duration_seconds": 5.98,
+    "source_decoded_duration_seconds": 5.667,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.153
+  },
+  {
+    "id": 34,
+    "title": "Plush-toy motion",
+    "file": "34-plush-toy-motion.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.35.01\u202fAM.mov",
+    "source_container_duration_seconds": 6.96,
+    "source_decoded_duration_seconds": 6.375,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.297
+  },
+  {
+    "id": 35,
+    "title": "Earbud-case motion",
+    "file": "35-earbud-case-motion.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.35.32\u202fAM.mov",
+    "source_container_duration_seconds": 7.19,
+    "source_decoded_duration_seconds": 6.5,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.322
+  },
+  {
+    "id": 36,
+    "title": "Remote-control motion",
+    "file": "36-remote-control-motion.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.36.10\u202fAM.mov",
+    "source_container_duration_seconds": 6.07,
+    "source_decoded_duration_seconds": 6.042,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.229
+  },
+  {
+    "id": 37,
+    "title": "Package motion \u00b7 second view",
+    "file": "37-package-motion-alt.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.37.10\u202fAM.mov",
+    "source_container_duration_seconds": 6.66,
+    "source_decoded_duration_seconds": 6.125,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.246
+  },
+  {
+    "id": 38,
+    "title": "Fabric-toy motion",
+    "file": "38-fabric-toy-motion.mp4",
+    "source": "Screen Recording 2026-07-15 at 12.37.54\u202fAM.mov",
+    "source_container_duration_seconds": 8.35,
+    "source_decoded_duration_seconds": 8.208,
+    "normalized_duration_seconds": 4.917,
+    "speedup": 1.669
+  }
+]

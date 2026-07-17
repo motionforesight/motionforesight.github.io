@@ -1,0 +1,77 @@
+{
+  "fps": 24,
+  "normalized_clip_duration_seconds": 4.916666666666667,
+  "transition_duration_seconds": 1.0,
+  "total_duration_seconds": 16.75,
+  "sequence": [
+    {
+      "type": "fullscreen",
+      "source_id": 14
+    },
+    {
+      "type": "layout-morph"
+    },
+    {
+      "type": "grid",
+      "layout": "3x3",
+      "source_ids": [
+        4,
+        12,
+        20,
+        9,
+        14,
+        3,
+        1,
+        10,
+        5
+      ]
+    },
+    {
+      "type": "layout-morph"
+    },
+    {
+      "type": "grid",
+      "layout": "5x7",
+      "source_ids": [
+        23,
+        3,
+        28,
+        14,
+        31,
+        5,
+        18,
+        16,
+        1,
+        35,
+        17,
+        26,
+        8,
+        21,
+        20,
+        24,
+        9,
+        32,
+        4,
+        36,
+        15,
+        22,
+        10,
+        27,
+        2,
+        12,
+        34,
+        19,
+        29,
+        25,
+        33,
+        37,
+        30,
+        38,
+        7
+      ]
+    }
+  ],
+  "teaser_excluded_source_ids": [
+    11
+  ]
+}
